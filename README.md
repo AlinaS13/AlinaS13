@@ -53,8 +53,4 @@
 
 ---
 
-## Github Stats
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaS13&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-<br/>
