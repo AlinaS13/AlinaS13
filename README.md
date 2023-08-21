@@ -6,7 +6,7 @@
 
 🧠 I’m currently learning TS
 
-👩‍💻 I am involved in  freelance projects and I am open to considering collaboration proposals
+👩‍💻 I am involved in  freelance projects and I am open to cooperation proposals
 
 🤩 Your corporate website will go down in history! Just let my know
 
