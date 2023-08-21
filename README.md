@@ -6,7 +6,9 @@
 
 🧠 I’m currently learning TS
 
-🤩 I like learning programming engineering and reading fantasy
+👩‍💻 I am involved in  freelance projects and I am open to considering collaboration proposals
+
+🤩 Your corporate website will go down in history! Just let my know
 
 ---
 
