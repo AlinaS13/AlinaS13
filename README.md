@@ -1,6 +1,6 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 
-### Hi there, my name is Alina Sestopalova 👋
+### Hi there, my name is Alina Shestopalova 👋
 
 🥇 I’m a Full Stack Developer
 
