@@ -4,11 +4,11 @@
 
 🥇 I’m a Full Stack Developer
 
-🧠 I’m currently learning TS
+🧠 I’m currently learning React Native and Next.jx
 
-👩‍💻 I am involved in  freelance projects and I am open to cooperation proposals
+👩‍💻 I am involved in freelance projects and I am open to cooperation proposals
 
-🤩 Your corporate website will go down in history! Just let my know
+🤩 Your website will go down in history! Just let my know
 
 ---
 
