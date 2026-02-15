@@ -2,13 +2,13 @@
 
 ### Hi there, my name is Alina Shestopalova 👋
 
-🥇 I’m a Full Stack Developer
+📱 I’m a web & mobile app developer
 
-🧠 I’m currently learning React Native and Next.jx
+🧠 I’m currently working with React Native CLI
 
 👩‍💻 I am involved in freelance projects and I am open to cooperation proposals
 
-🤩 Your website will go down in history! Just let my know
+🤩 Your website will make history! Just let my know
 
 ---
 
